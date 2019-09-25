@@ -1,0 +1,211 @@
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.deps.json
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.json
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.dev.json
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.dll
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CoreCompileInputs.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfoInputs.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.input.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.output.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorCoreGenerate.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cache
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\IDB-BISEW\NEW PROJECT\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CopyComplete
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.deps.json
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.json
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.dev.json
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.dll
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CoreCompileInputs.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfoInputs.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfo.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.input.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.output.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorCoreGenerate.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cache
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CopyComplete
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Create.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Delete.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Details.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Edit.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Index.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Create.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Delete.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Details.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Edit.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Index.g.cshtml.cs
+E:\R39_Belal_Uddin\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csprojAssemblyReference.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.deps.json
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.json
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.dev.json
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.dll
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CoreCompileInputs.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfoInputs.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.input.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.output.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorCoreGenerate.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Create.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Delete.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Details.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Edit.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Index.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Create.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Delete.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Details.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Edit.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Index.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cache
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CopyComplete
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.deps.json
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.json
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.dev.json
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.dll
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.dll
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CoreCompileInputs.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfoInputs.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfo.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.input.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.output.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorCoreGenerate.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Create.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Delete.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Details.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Edit.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Index.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Create.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Delete.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Details.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Edit.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Index.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cache
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cs
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.dll
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+C:\Users\idb_C#\Desktop\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CopyComplete
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.deps.json
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.json
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.runtimeconfig.dev.json
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.dll
+E:\OnlineNewspaper\OnlineNewspaper\bin\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CoreCompileInputs.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorAssemblyInfo.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfoInputs.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.AssemblyInfo.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.input.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.TagHelpers.output.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorCoreGenerate.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Create.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Delete.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Details.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Edit.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsCategories\Index.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Create.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Delete.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Details.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Edit.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Index.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.RazorTargetAssemblyInfo.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.Views.pdb
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.dll
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.pdb
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csproj.CopyComplete
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\NationalNews.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Sports.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\International.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\AddNews.g.cshtml.cs
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\OnlineNewspaper.csprojAssemblyReference.cache
+E:\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\ManageNews.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\AddNews.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\International.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\ManageNews.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\NationalNews.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\NewsDetails\Sports.g.cshtml.cs
+E:\IDB-BISEW\NEW PROJECT\ASP.NET Core\OnlineNewspaper\OnlineNewspaper\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
